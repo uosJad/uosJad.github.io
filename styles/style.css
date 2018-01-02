@@ -23,3 +23,22 @@
 .fa-6x{
   font-size: 6em;
 }
+
+.top-title{
+  color:#FFFFFF
+}
+
+.test-bg{  
+  background-color: #cccccc;
+
+  background-image: url('../img/test-bg-1.jpg');
+
+  /* Full height */
+  height: 100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
